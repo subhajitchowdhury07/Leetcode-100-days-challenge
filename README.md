@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
