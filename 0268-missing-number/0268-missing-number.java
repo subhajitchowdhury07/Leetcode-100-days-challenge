@@ -1,22 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length;
-        int missingNum = -1;
-        
-        // Loop through 0 to n to find the missing number
-        for (int i = 0; i <= n; i++) {
-            boolean found = false;
-            for (int j = 0; j < n; j++) {
-                if (nums[j] == i) {
-                    found = true;
-                    break; // Stop checking once we find i
-                }
-            }
-            // If i is not found, it's the missing number
-            if (!found) {
-                missingNum = i;
-                break;
-            }
+        int n =nums.length;
+        int actualSum = (n*(n+1))/2;
+        int currentSum=0;
+        int missingNum= 0;
+        for(int i=0; i <nums.length; i++){
+         currentSum = currentSum+ nums[i];
+        }
+        if(currentSum != actualSum){
+            missingNum = actualSum - currentSum;
         }
 
         return missingNum;
