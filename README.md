@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -51,6 +52,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -60,4 +62,5 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
