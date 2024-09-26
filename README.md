@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1013-fibonacci-number) |
@@ -54,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -83,4 +85,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0334-increasing-triplet-subsequence) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
