@@ -43,6 +43,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1031-add-to-array-form-of-integer) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
