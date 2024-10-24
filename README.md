@@ -45,6 +45,7 @@
 | [0238-product-of-array-except-self](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0334-increasing-triplet-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1031-add-to-array-form-of-integer) |
@@ -76,6 +77,7 @@
 | [0162-find-peak-element](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
