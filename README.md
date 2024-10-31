@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1013-fibonacci-number) |
@@ -41,6 +42,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0162-find-peak-element) |
