@@ -45,6 +45,7 @@
 | [0042-trapping-rain-water](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Binary Search
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0037-sudoku-solver) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
