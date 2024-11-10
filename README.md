@@ -53,6 +53,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -97,6 +98,7 @@
 | [0162-find-peak-element](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 | [0042-trapping-rain-water](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
