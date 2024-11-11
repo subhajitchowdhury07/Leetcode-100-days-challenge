@@ -59,6 +59,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1031-add-to-array-form-of-integer) |
+| [1127-last-stone-weight](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [1127-last-stone-weight](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
