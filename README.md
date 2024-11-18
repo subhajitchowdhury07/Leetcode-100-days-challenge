@@ -56,6 +56,7 @@
 | [0287-find-the-duplicate-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1031-add-to-array-form-of-integer) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0724-find-pivot-index) |
 ## Brainteaser
 |  |
 | ------- |
