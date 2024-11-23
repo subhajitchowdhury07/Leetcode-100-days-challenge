@@ -121,6 +121,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0443-string-compression) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0316-remove-duplicate-letters) |
+| [0443-string-compression](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0443-string-compression) |
 ## Trie
 |  |
 | ------- |
