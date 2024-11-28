@@ -23,6 +23,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -147,6 +148,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0443-string-compression) |
 ## Trie
 |  |
@@ -164,6 +166,7 @@
 | [0155-min-stack](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
