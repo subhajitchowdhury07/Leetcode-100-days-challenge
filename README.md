@@ -141,6 +141,7 @@
 | [0179-largest-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0334-increasing-triplet-subsequence) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0316-remove-duplicate-letters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0443-string-compression) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1542-consecutive-characters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1542-consecutive-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Trie
@@ -175,6 +177,7 @@
 | [0225-implement-stack-using-queues](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0394-decode-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
