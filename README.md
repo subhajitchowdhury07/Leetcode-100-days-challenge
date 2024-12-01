@@ -65,6 +65,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1677-matrix-diagonal-sum](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1677-matrix-diagonal-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0037-sudoku-solver) |
+| [1677-matrix-diagonal-sum](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1677-matrix-diagonal-sum) |
 ## Union Find
 |  |
 | ------- |
