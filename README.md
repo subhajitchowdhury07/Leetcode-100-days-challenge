@@ -73,6 +73,7 @@
 | [0075-sort-colors](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -90,6 +91,7 @@
 | [0013-roman-to-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -152,6 +154,7 @@
 | [0125-valid-palindrome](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0443-string-compression) |
