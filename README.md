@@ -33,6 +33,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1642-water-bottles) |
 ## Array
 |  |
@@ -60,6 +61,7 @@
 | [0724-find-pivot-index](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0037-sudoku-solver) |
+| [0898-transpose-matrix](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1677-matrix-diagonal-sum) |
 ## Union Find
 |  |
