@@ -33,6 +33,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1642-water-bottles) |
 ## Array
@@ -45,6 +46,7 @@
 | [0035-search-insert-position](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0042-trapping-rain-water) |
+| [0059-spiral-matrix-ii](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0128-longest-consecutive-sequence) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1677-matrix-diagonal-sum) |
 ## Union Find
