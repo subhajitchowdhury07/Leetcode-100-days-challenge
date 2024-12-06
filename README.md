@@ -24,6 +24,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1013-fibonacci-number) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
