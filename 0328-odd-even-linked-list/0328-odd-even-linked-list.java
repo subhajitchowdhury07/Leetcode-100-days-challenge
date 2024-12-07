@@ -25,10 +25,10 @@ class Solution {
         while(curr != null && curr.next !=null){
             // temp = curr.val;
             // curr = curr.next;
-            prev.next = curr.next;
+            prev.next = prev.next.next;
             prev = prev.next;
 
-            curr.next = prev.next;
+            curr.next = curr.next.next;
             curr = curr.next;
 
             // ListNode tempu = new ListNode(temp);
