@@ -16,6 +16,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1642-water-bottles) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [0316-remove-duplicate-letters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -249,4 +251,5 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0234-palindrome-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
