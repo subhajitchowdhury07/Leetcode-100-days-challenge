@@ -74,6 +74,7 @@
 | [0792-binary-search](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1031-add-to-array-form-of-integer) |
+| [1072-next-greater-node-in-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -205,12 +206,14 @@
 | [0316-remove-duplicate-letters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1072-next-greater-node-in-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1072-next-greater-node-in-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0316-remove-duplicate-letters) |
+| [1072-next-greater-node-in-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1072-next-greater-node-in-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,5 +261,6 @@
 | [0234-palindrome-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0328-odd-even-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1072-next-greater-node-in-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
