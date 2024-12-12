@@ -43,6 +43,7 @@
 | [0059-spiral-matrix-ii](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1642-water-bottles) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Array
 |  |
 | ------- |
@@ -262,5 +263,6 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0328-odd-even-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1072-next-greater-node-in-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
