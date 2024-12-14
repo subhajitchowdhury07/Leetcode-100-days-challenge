@@ -272,4 +272,20 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
