@@ -277,19 +277,23 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0222-count-complete-tree-nodes) |
 | [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0101-symmetric-tree) |
 | [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0101-symmetric-tree) |
 | [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0222-count-complete-tree-nodes) |
 | [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
