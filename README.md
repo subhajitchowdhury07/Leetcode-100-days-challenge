@@ -182,6 +182,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0394-decode-string) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0037-sudoku-solver) |
+| [0257-binary-tree-paths](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -281,12 +283,14 @@
 | [0101-symmetric-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0257-binary-tree-paths) |
 | [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0257-binary-tree-paths) |
 | [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -299,5 +303,6 @@
 | [0101-symmetric-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0257-binary-tree-paths) |
 | [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
