@@ -285,6 +285,7 @@
 | [0110-balanced-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0257-binary-tree-paths) |
 | [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
@@ -293,6 +294,7 @@
 | [0101-symmetric-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0257-binary-tree-paths) |
 | [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
@@ -309,6 +311,11 @@
 | [0110-balanced-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0257-binary-tree-paths) |
 | [1005-univalued-binary-tree](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1005-univalued-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
