@@ -160,6 +160,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0724-find-pivot-index) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0394-decode-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0443-string-compression) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1542-consecutive-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Trie
