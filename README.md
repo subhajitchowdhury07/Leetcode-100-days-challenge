@@ -84,6 +84,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1677-matrix-diagonal-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0238-product-of-array-except-self](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Brainteaser
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1542-consecutive-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
 | ------- |
