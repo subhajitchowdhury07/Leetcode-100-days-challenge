@@ -117,6 +117,7 @@
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0287-find-the-duplicate-number) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0238-product-of-array-except-self](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Brainteaser
@@ -197,6 +200,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/1542-consecutive-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/subhajitchowdhury07/Leetcode-100-days-challenge/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
